@@ -91,7 +91,6 @@ def stringi_temizle_ve_integera_cevir(string):
         return 0
     
 def searchGanimet(istenilen_gold):
-    enGenisten_Izle()
     try:
         time.sleep(3)
         if saldır == "saldır":
